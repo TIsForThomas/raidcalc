@@ -1,0 +1,10 @@
+# Health values for entities
+metalDoor = float(250)
+woodDoor = float(200)
+garageDoor = float(600)
+armoredDoor = float(1000)
+twigWall = float(10)
+woodWall = float(250)
+stoneWall = float(500)
+metalWall = float(1000)
+armoredWall = float(2000)
